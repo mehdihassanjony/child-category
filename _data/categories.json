@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "parent": {
+    "subcategories": [
+      {
+        "children": [
+          {
+            "name": "Child Category",
+            "description": "Child Kateqoriyadir",
+            "__v": 0
+          }
+        ],
+        "name": "Alt Category",
+        "description": "Alt Kateqoriyadir",
+        "__v": 1
+      },
+      {
+        "children": [
+          {
+            "name": "Child Category 2",
+            "description": "Child 2 Kateqoriyadir",
+            "__v": 0
+          }
+        ],
+        "name": "Sub Category 2",
+        "description": "Alt 2 Category",
+        "__v": 1
+      }
+    ],
+    "_id": "6050b47b88966d1ff040ee24",
+    "name": " Category",
+    "description": "This is Category",
+    "__v": 2
+  }
+}
